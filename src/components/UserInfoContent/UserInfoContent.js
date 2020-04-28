@@ -14,7 +14,7 @@ const UserInfoContent = (props) => {
                     <p>Phone: {phone}</p>
                     <p>Year Salary: {yearSalary}</p>
                     <div className="add-friend-button-div">
-                    <button className="add-friend-button"><FontAwesomeIcon icon={faUserPlus} /> Add friend</button>
+                    <button onClick = { () => props.addFriendHandle(props.userInfo)} className="add-friend-button"><FontAwesomeIcon icon={faUserPlus} /> Add friend</button>
                     </div>
                 </div>
                 <div className="user-pic">
