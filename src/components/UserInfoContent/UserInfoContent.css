@@ -36,3 +36,8 @@
 .add-friend-button-div {
     text-align: center;
 }
+
+.user-pic img {
+    height: 300px;
+    width: 250px;
+}

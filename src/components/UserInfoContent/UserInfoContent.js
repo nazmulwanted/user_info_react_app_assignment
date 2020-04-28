@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUserPlus } from '@fortawesome/free-solid-svg-icons';
 
 const UserInfoContent = (props) => { 
-    const { name, address, email, phone, yearSalary } = props.userInfo;
+    const { name, address, email, phone, yearSalary, photo } = props.userInfo;
     return (
             <div className="content-component">
                 <div className="user-detail">
@@ -18,7 +18,7 @@ const UserInfoContent = (props) => {
                     </div>
                 </div>
                 <div className="user-pic">
-                    <h1>Here will be pic.</h1>
+                    <img src = { photo } alt = "user_photo" />
                 </div>
             </div>
     );

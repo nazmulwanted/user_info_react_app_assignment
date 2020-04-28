@@ -5,6 +5,7 @@ var userInfo = [
         "email": "abul@test.com",
         "phone": "0200001",
         "yearSalary": 3600,
+        "photo": 'https://images.unsplash.com/photo-1534339480783-6816b68be29c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80',
     },
     {
         "name": "Kabul",
@@ -12,6 +13,7 @@ var userInfo = [
         "email": "kabul@test.com",
         "phone": "0200002",
         "yearSalary": 5000,
+        "photo": 'https://images.unsplash.com/photo-1511546395756-590dffdcdbd1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80',
     },
     {
         "name": "Babul",
@@ -19,6 +21,7 @@ var userInfo = [
         "email": "babul@test.com",
         "phone": "0200003",
         "yearSalary": 3640,
+        "photo": 'https://images.unsplash.com/photo-1582233479366-6d38bc390a08?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=761&q=80',
     },
     {
         "name": "Momin",
@@ -26,6 +29,7 @@ var userInfo = [
         "email": "momin@test.com",
         "phone": "0200004",
         "yearSalary": 3240,
+        "photo": 'https://images.unsplash.com/photo-1517530094915-500495b15ade?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80',
     },
     {
         "name": "Laila",
@@ -33,6 +37,7 @@ var userInfo = [
         "email": "laila@test.com",
         "phone": "0200005",
         "yearSalary": 5000,
+        "photo": 'https://images.unsplash.com/photo-1559637621-d766677659e8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80',
     },
     {
         "name": "Mojnu",
@@ -40,6 +45,7 @@ var userInfo = [
         "email": "mojnu@test.com",
         "phone": "0200006",
         "yearSalary": 6000,
+        "photo": 'https://images.unsplash.com/photo-1553654057-870acfcfabd1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=282&q=80',
     },
     {
         "name": "Shiri",
@@ -47,6 +53,7 @@ var userInfo = [
         "email": "shiri@test.com",
         "phone": "0200007",
         "yearSalary": 8980,
+        "photo": 'https://images.unsplash.com/photo-1545506475-5a0985c3ca79?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80',
     },
     {
         "name": "Farhad",
@@ -54,6 +61,7 @@ var userInfo = [
         "email": "farhad@test.com",
         "phone": "0200008",
         "yearSalary": 7890,
+        "photo": 'https://images.unsplash.com/photo-1560856218-0da41ac7c66a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80',
     },
     {
         "name": "Radha",
@@ -61,6 +69,7 @@ var userInfo = [
         "email": "radha@test.com",
         "phone": "0200009",
         "yearSalary": 5430,
+        "photo": 'https://images.unsplash.com/flagged/photo-1574720066458-725b9f489304?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=323&q=80',
     },
     {
         "name": "Krishna",
@@ -68,6 +77,7 @@ var userInfo = [
         "email": "krishna@test.com",
         "phone": "0200010",
         "yearSalary": 4500,
+        "photo": 'https://images.unsplash.com/photo-1522724560584-fe4dfa2991f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80',
     },
     {
         "name": "Salam",
@@ -75,6 +85,7 @@ var userInfo = [
         "email": "salam@test.com",
         "phone": "0200011",
         "yearSalary": 6700,
+        "photo": 'https://images.unsplash.com/photo-1558466018-750096b8ead7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=348&q=80',
     },
     {
         "name": "Kalam",
@@ -82,6 +93,7 @@ var userInfo = [
         "email": "kalam@test.com",
         "phone": "0200012",
         "yearSalary": 5600,
+        "photo": 'https://images.unsplash.com/photo-1511623785848-021573a3a04f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80',
     },
     {
         "name": "Hasan",
@@ -89,6 +101,7 @@ var userInfo = [
         "email": "hasan@test.com",
         "phone": "0200013",
         "yearSalary": 3600,
+        "photo": 'https://images.unsplash.com/photo-1580172275379-bf8077ea5b5f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80',
     },
     {
         "name": "Kabir",
@@ -96,6 +109,7 @@ var userInfo = [
         "email": "kabir@test.com",
         "phone": "0200014",
         "yearSalary": 3400,
+        "photo": 'https://images.unsplash.com/photo-1549913772-820279f909b7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=747&q=80',
     },
     {
         "name": "Abdul",
@@ -103,6 +117,7 @@ var userInfo = [
         "email": "abdul@test.com",
         "phone": "0200015",
         "yearSalary": 3600,
+        "photo": 'https://images.unsplash.com/photo-1509933551745-514268e48884?ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80',
     },
 ];
 
